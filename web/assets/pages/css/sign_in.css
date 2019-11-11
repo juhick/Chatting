@@ -1,0 +1,33 @@
+body{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    width:100%;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.signup{
+    height: 400px;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: solid 1px #000000;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+
+.input{
+    margin: 0 auto;
+    text-align: center;
+    float: left;
+    display: flex;
+    align-items: center;
+}
